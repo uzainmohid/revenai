@@ -4,10 +4,7 @@ RevenAI is an AI-powered revenue protection platform built for fintech and B2B s
 
 We help organizations proactively detect hidden revenue risks, eliminate silent losses, and protect recurring income — before they impact growth, valuation, or trust.
 
-This is not a dashboard experiment.  
-This is a production-grade AI product engineered for real business impact.
 
-🌐 Live Product: https://revenai-frontend.onrender.com
 
 ---
 
